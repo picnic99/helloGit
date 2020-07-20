@@ -4,6 +4,6 @@ public class HelloGit {
         System.out.println("version 2");
         System.out.println("创建一个分支");
         System.out.println("主干添加");
-
+        System.out.println("分支添加");
     }
 }
